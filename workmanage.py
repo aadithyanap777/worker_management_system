@@ -147,7 +147,8 @@ class Worker:
                  print("No workers found.")
 obj=Worker()
 while True:
-     print( "1. Add workers\n"
+     print("====WORKER MANAGEMENT SYSTEM====\n"
+           "1. Add workers\n"
             "2. View workers\n"
             "3. Update workers\n"
             "4. Delete workers\n"
